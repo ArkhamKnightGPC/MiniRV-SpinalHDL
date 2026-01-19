@@ -1,4 +1,4 @@
-package MiniRV
+package hw
 
 import spinal.core._
 import spinal.core.sim._

@@ -1,6 +1,6 @@
 lazy val root = (project in file("."))
   .settings(
-    name := "MiniRV",
+    name := "hw",
     Compile / scalaSource := baseDirectory.value,
 
     libraryDependencies ++= Seq(
